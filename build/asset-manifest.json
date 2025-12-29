@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f8e77e9.css",
+    "main.js": "/static/js/main.a20a7d2f.js",
+    "static/js/787.bc7d429a.chunk.js": "/static/js/787.bc7d429a.chunk.js",
+    "static/media/meetup.png": "/static/media/meetup.581eb5917622f2230609.png",
+    "static/media/cyber-security-seminar-at-ranchi-university.png": "/static/media/cyber-security-seminar-at-ranchi-university.1680873d2e478e0f804a.png",
+    "static/media/hacker.png": "/static/media/hacker.53f30af1f6a55bb97fc3.png",
+    "static/media/passiveincomehackingtruth.png": "/static/media/passiveincomehackingtruth.bbf1e50dde1bd35b8b07.png",
+    "static/media/penetrationtestinghackingtruth.png": "/static/media/penetrationtestinghackingtruth.b5f65ebe5f6023c4f01a.png",
+    "static/media/seminarhackingtruth.png": "/static/media/seminarhackingtruth.efd5eb9c2798d4bd6284.png",
+    "static/media/macbook.png": "/static/media/macbook.49bb09c7ebbb8b37adfc.png",
+    "static/media/internshipimage.png": "/static/media/internshipimage.65a900e32b52db051a4b.png",
+    "static/media/faqimage.png": "/static/media/faqimage.9159a091be47442ff66c.png",
+    "static/media/progesshackingtruth.png": "/static/media/progesshackingtruth.1f6c52776accc1049347.png",
+    "static/media/ethicalhackingclassesshackingtruth.png": "/static/media/ethicalhackingclassesshackingtruth.e847c4ab8ac3f466b9a7.png",
+    "static/media/blogcropimage.jpg": "/static/media/blogcropimage.8a4a5383abbd766a52f3.jpg",
+    "static/media/mugg.png": "/static/media/mugg.6c45b9780a65b95779d1.png",
+    "static/media/store.png": "/static/media/store.2a541115a9a0d9ec038c.png",
+    "static/media/about.png": "/static/media/about.b89e4185d728718f1687.png",
+    "static/media/academyhackingtruth.png": "/static/media/academyhackingtruth.b68bdeada83bcb8b8f98.png",
+    "static/media/webdevelopmenthackingtruth.png": "/static/media/webdevelopmenthackingtruth.5b5ec1ffe79a862460b4.png",
+    "static/media/a.png": "/static/media/a.35670f3a33287d725f45.png",
+    "static/media/b.png": "/static/media/b.e4317085af4d27a25724.png",
+    "static/media/c.png": "/static/media/c.657370570b42458b4567.png",
+    "static/media/ethicalhacking.svg": "/static/media/ethicalhacking.619377494decd105e67d910da30ee290.svg",
+    "static/media/programmingwithpython.svg": "/static/media/programmingwithpython.3ed22559d2e2c0748b72ed06280dc5dc.svg",
+    "static/media/webdevelopment.svg": "/static/media/webdevelopment.8dd485caf38d3393cf6fe631c6dea1db.svg",
+    "index.html": "/index.html",
+    "main.1f8e77e9.css.map": "/static/css/main.1f8e77e9.css.map",
+    "main.a20a7d2f.js.map": "/static/js/main.a20a7d2f.js.map",
+    "787.bc7d429a.chunk.js.map": "/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f8e77e9.css",
+    "static/js/main.a20a7d2f.js"
+  ]
+}
