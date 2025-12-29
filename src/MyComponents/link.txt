@@ -1,0 +1,225 @@
+h
+https://youtu.be/RUku45vpSDU
+https://flutterq.com/switch-is-not-exported-from-react-router-dom/
+https://stackoverflow.com/questions/63124161/attempted-import-error-switch-is-not-exported-from-react-router-dom
+https://www.codegrepper.com/code-examples/javascript/%27Redirect%27+is+not+defined+react%2Fjsx-no-undef
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+https://reactjs.org/docs/create-a-new-react-app.html
+
+https://medium.com/officialrajdeepsingh/how-to-use-bootstrap-in-react-js-adf50165c7a1
+
+
+https://www.shutterstock.com/search/website+character
+
+https://fonts.google.com/specimen/Mulish?query=muli
+https://emojipedia.org/flag-india/
+https://emojiterra.com/flag-for-india/
+
+
+     <div className="container-fluid nav_bg">
+        <div className="row">
+          <div className="col-10 mx-auto">
+
+          </div>
+        </div>
+     </div>
+
+
+     If You Need A Hacker You Need To Think Like A Hacker
+
+
+https://stackoverflow.com/questions/58245517/how-to-add-social-media-icons-to-a-react-component
+
+
+https://codesandbox.io/s/71n6k65oyx
+https://www.npmjs.com/package/react-social-icons
+https://react-icons.github.io/react-icons/
+https://www.digitalocean.com/community/tutorials/creating-a-social-follow-component-in-react
+https://mdbootstrap.com/snippets/
+https://www.npmjs.com/package/social-media-icons-react
+
+
+<div id="top-bar">
+<div class="margin-1200">
+<div class="social-icons left">
+<li><a href="https://www.facebook.com/hackingtruthin/"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/hackingtruthin"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.linkedin.com/company/hackingtruthin"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="https://www.insstagram.com/hackingtruthin"><i class="fa fa-instagram"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCa2s3RmE4B-hRsgKSjJLx_w"><i class="fa fa-youtube"></i></a></li>
+</div>
+
+https://www.codegrepper.com/code-examples/html/how+to+do+auto+download+when+you+click+on+a+link
+https://www.codegrepper.com/code-examples/html/how+to+do+auto+download+when+you+click+on+a+link
+</div>
+</div>
+
+
+
+
+<div id="top-bar">
+<ul className="nav ">
+<li className="nav-item-social"><Link to="https://www.facebook.com/hackingtruthin/"  className="nav-link-item"><FaFacebook /></Link></li>
+<li className="nav-item-social"><Link to="https://twitter.com/hackingtruthin"  className="nav-link-item"><i class="fa fa-twitter"><FaTwitter /></i></Link></li>
+<li className="nav-item-social"><Link to="https://www.linkedin.com/company/hackingtruthin"  className="nav-link-item"><FaLinkedin /></Link></li>
+<li className="nav-item-social"><Link to="https://www.instagram.com/hackingtruthin"  className="nav-link-item"><FaInstagram /></Link></li>
+<li className="nav-item-social"><Link to="https://www.youtube.com/channel/UCa2s3RmE4B-hRsgKSjJLx_w"  className="nav-link-item" ><FaYoutube /></Link></li>
+<li className="nav-item-social"><Link to="https://www.discord.com/"  className="nav-link-item" ><FaDiscord /></Link></li>
+<li id="contact-info"> | contact@hackingtruth.org</li>
+</ul>
+</div>
+
+
+
+
+<div class="">
+<div id="top-bar">
+  <div class="row">
+    <div class="col">
+    <ul className="nav ">
+<li className="nav-item-social"><Link to="https://www.facebook.com/hackingtruthin/"  className="nav-link-item"><FaFacebook /></Link></li>
+<li className="nav-item-social"><Link to="https://twitter.com/hackingtruthin"  className="nav-link-item"><i class="fa fa-twitter"><FaTwitter /></i></Link></li>
+<li className="nav-item-social"><Link to="https://www.linkedin.com/company/hackingtruthin"  className="nav-link-item"><FaLinkedin /></Link></li>
+<li className="nav-item-social"><Link to="https://www.instagram.com/hackingtruthin"  className="nav-link-item"><FaInstagram /></Link></li>
+<li className="nav-item-social"><Link to="https://www.youtube.com/channel/UCa2s3RmE4B-hRsgKSjJLx_w"  className="nav-link-item" ><FaYoutube /></Link></li>
+<li className="nav-item-social"><Link to="https://www.discord.com/"  className="nav-link-item" ><FaDiscord /></Link></li>
+
+</ul>
+    </div>
+    
+    <div class="col col-lg-2">
+    <ul className="nav">
+    <li id="contact-info"><Link to="https://www.discord.com/"  className="nav-link-item" >contact@hackingtruth.org</Link></li>
+    </ul>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+import React from "react";
+import { NavLink } from "react-router-dom";
+import web from "../../src/MyComponents/images/meetup.png"
+
+const Meetus = () => {
+    return (
+      
+    // gy= gutter horizontal 2
+    // gx= gutter vertical
+
+        <>
+          
+          <div className="my-5">
+              <h1 className="text-center">Delivered a Seminar</h1>
+          </div>
+        
+        
+
+     <div className="container-fluid nav_bg ">
+        <div className="row ">
+          <div className="col-10 mx-auto ">
+         
+            <div className="row gy-4">    
+          <div className="card mb-3 ">
+  <img className="card-img-top" src={web} alt="Card image cap" />
+  <div className="card-body">
+    <h5 className="card-title">Card title</h5>
+    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
+  </div>
+</div>
+<div className="card">
+<img className="card-img-bottom" src={web} alt="Card image cap" />
+  <div className="card-body">
+    <h5 className="card-title">Card title</h5>
+    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
+  </div>
+  
+</div>
+</div>
+
+
+
+
+
+
+         </div>
+        </div>
+     </div>
+        </>
+   
+   );
+};
+
+export default Meetus;
+
+
+This page introduce you about free seminars, workshops, how we go to School, Colleges, University or to those people who are really hungry for knowledge. How can you make a career in the field of cyber security, how to make people aware to avoid cyber attacks and be aware of yourself. To conduct the seminar, you can book your slot by clicking on the slot button and tie the waist belt because we are coming to you.
+
+
+https://www.coxblue.com/8-tips-and-best-practices-on-how-to-train-employees-for-cyber-security/
+mailto:info@example.com?subject=subject&cc=cc@example.com
+https://stackoverflow.com/questions/6988355/open-gmail-on-mailto-action
+
+
+
+
+
+/========================================internship card==============
+
+
+
+	  
+    <div className="container-fluid mb-5 ">
+        <div className="row">
+          <div className="col-10 mx-auto">
+
+  
+  <div className="row row-cols-1 row-cols-md-3 g-4">
+  <div className="col">
+    <div className="card">
+      <img src={webintern} className="card-img-top" alt="..." />
+      <div className="card-body">
+        <h5 className="card-title">Card title</h5>
+        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div className="col">
+    <div className="card">
+      <img src={webintern} className="card-img-top" alt="..." />
+      <div className="card-body">
+        <h5 className="card-title">Card title</h5>
+        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div className="col">
+    <div className="card">
+      <img src={webintern} className="card-img-top" alt="..." />
+      <div className="card-body">
+        <h5 className="card-title">Card title</h5>
+        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div className="col">
+    <div className="card">
+      <img src={webintern} className="card-img-top" alt="..."/>
+      <div className="card-body">
+        <h5 className="card-title">Card title</h5>
+        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+        </div>
+           </div></div>
+  
+	  

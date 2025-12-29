@@ -1,0 +1,242 @@
+<div id="accordion">
+    <div class="card">
+      <div class="card-header">
+        <a class="btn" data-bs-toggle="collapse" href="#collapseOne">
+          Tell me about your company ?
+        </a>
+      </div>
+      <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
+        <div class="card-body">
+          Hacking Truth is a cyber security company, We are creative we do things a bit differently, and that's the way we like it.
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+        What is the purpose of Hacking Truth ?
+      </a>
+      </div>
+      <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          If we come to this earth, then we have to choose our purpose, our big aim is to save people from cyber attacks. Till then be safe, be alert, be careful.
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+          What can Hacking Truth provide us ?
+        </a>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          The first priority of Hacking Truth is that it builds a heartfelt relationship with its client, after that it fulfills the need of the client. Our company provides penetration testing in cyber security and even conducts web development, online/offline seminars, workshops.
+        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+          How to conduct Seminar/Workshop in cyber security ?
+        </a>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          To conduct the seminar, you can contact us directly through our contact page, apart from this you can also do slot booking from Meetus page.
+        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+          How can i take your courses ?
+        </a>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          To learn something new and prepare yourself via our courses, you can join to our courses directly through our Academy page.
+        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+          If i take your courses is it any benefit or will get certificate or certificate has any value ?
+        </a>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          Even if you take Google's course, you are not going to get any benefit until you have that curiosity to learn something new and at the same time our Well Trained Tutor will teach you. Yes of course we get certificate on course completion and certificate has value in market because hacking truth Trademark is registered and along with your knowledge, it also gives a different shine to your resume.        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+          How can we do internship in hacking truth and what will be the category ?
+        </a>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          We are going to start internship very soon.  This golden opportunity will be provided to many people on this platform.  Give me some time</div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+<div class="card">
+      <div class="card-header">
+        <NavLink class="collapsed btn" data-bs-toggle="collapse" to="#collapseThree">
+          <strong>How to conduct Seminar/Workshop in cyber security ? </strong>
+        </NavLink>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          To conduct the seminar, you can contact us directly through our contact page, apart from this you can also do slot booking from Meetus page.
+        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <NavLink class="collapsed btn" data-bs-toggle="collapse" to="#collapseThree">
+           <strong>How can i take your courses ? </strong>
+        </NavLink>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          To learn something new and prepare yourself via our courses, you can join to our courses directly through our Academy page.
+        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <NavLink class="collapsed btn" data-bs-toggle="collapse" to="#collapseThree">
+          <strong>If i take your courses is it any benefit or will get certificate or certificate has any value ? </strong>
+        </NavLink>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          Even if you take Google's course, you are not going to get any benefit until you have that curiosity to learn something new and at the same time our Well Trained Tutor will teach you. Yes of course we get certificate on course completion and certificate has value in market because hacking truth Trademark is registered and along with your knowledge, it also gives a different shine to your resume.        </div>
+      </div>
+    </div>
+<div class="card">
+      <div class="card-header">
+        <NavLink class="collapsed btn" data-bs-toggle="collapse" to="#collapseThree">
+           <strong>How can we do internship in hacking truth and what will be the category ? </strong>
+        </NavLink>
+      </div>
+      <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+        <div class="card-body">
+          We are going to start internship very soon.  This golden opportunity will be provided to many people on this platform.  Give me some time</div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  <a class="page-scroll" href="#about">
+<div class="box_wrapper">
+<div class="box">
+</div>
+</div>
+</a>
+
+
+
+
+
+<section class="section-padding about-section" id="about">
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<div class="section_title">
+<div class="section_subtitle">About Us</div>
+<!-- About Title -->
+<h2 class="section_main_title">WE ARE<strong> CREATIVE</strong></h2>
+</div>
+<div class="about-item">
+<!-- About Description -->
+<p>We are creative we do things a bit differently, and that's the way we like it!.</p>
+<p>Hacking is about ingenuity in any walk of life. “Creative solution” or “being entrepreneurial” have replaced hacking in the vocabulary of most because of the distancing people want to make from the computer hackers. We don't want to be tainted by the malicious intent that the word hacker has become associated with. A few thoughts on brain hacks for driving creative thinking forward.</p>
+<div class="hgt-20"></div>
+<div class="home-button">
+<!-- About Button Link -->
+<a class="btn-color-background" href="#">Read More</a>
+</div>
+</div>
+</div>
+<div class="col-sm-4 col-sm-offset-2">
+<div class="about-box">
+<div class="box-overlay"></div>
+<!-- About Video URL -->
+<a class="videopopup" href="https://www.youtube.com/watch?v=xK1VzYrVzIg">
+<!-- About Video Thumbnail -->
+<img alt="" src="https://1.bp.blogspot.com/-6QNNjDsKyN0/XaYEcC8M-PI/AAAAAAAAuLU/77Nt8TJEjOYSJC7ZpV-4VPAA9LgOxQbQQCLcBGAsYHQ/s1600/How%2Bto%2Binstall%2BKali%2Blinux%2Bwith%2Bdual%2Bboot%2Bwindows%252Blinux.png">
+<div class="sonar-wrapper">
+<div class="sonar-emitter">
+<i class="ion-arrow-right-b"></i>
+<div class="sonar-wave"></div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+┌──(HackingTruth㉿KumarAtulJaiswal)-[~/FAQ]
+└─$ 
+
+
+
+
+================= Meta tags======================Add in head tag================
+
+
+<!-- made by www.metatags.org --> 
+<title>Hacking Truth | A Cyber Security Company</title>  
+<meta name="description" content= "Hacking Truth is a cyber security company, We are creative we do things a bit differently, and that's the way we like it. The industry will witness a 350% growth" />
+<meta name="robots" content= "index, follow">
+
+
+
+https://www.metatags.org/seo-tips/why-use-meta-tags/metatags-generator/#gf_1
+
+https://www.seoptimer.com/meta-tag-generator
+
+
+https://www.metatags.org/all-meta-tags-overview/the-important-meta-tags/meta-name-description/
+
+https://www.hostpapa.in/knowledgebase/add-meta-tags-website/
+
+
+<meta name="title" content="Hacking Truth | A Cyber Security Company">
+<meta name="description" content="Hacking Truth is a cyber security company, We are creative we do things a bit differently, and that's the way we like it. The industry will witness a 350% growth.">
+<meta name="keywords" content="Cyber Security, Ethical Hacking, Web Developing, Seminar, Workshop, Web App Penetration Testing, Ethical Hacking Classes, Android  ">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="author" content="Kumar Atul Jaiswal">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
